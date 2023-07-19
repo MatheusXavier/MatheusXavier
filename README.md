@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome!
+
+## Here I put personal projects and some code samples that I use in [Medium](https://medium.com/@matheusxxavier) articles. :computer:
 
 <!--
 **MatheusXavier/MatheusXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
